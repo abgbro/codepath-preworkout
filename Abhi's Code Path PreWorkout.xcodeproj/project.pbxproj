@@ -13,9 +13,6 @@
 		752E8EFE2B4E359E002D309A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 752E8EFC2B4E359E002D309A /* Main.storyboard */; };
 		752E8F002B4E359F002D309A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 752E8EFF2B4E359F002D309A /* Assets.xcassets */; };
 		752E8F032B4E359F002D309A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 752E8F012B4E359F002D309A /* LaunchScreen.storyboard */; };
-		752E8F0E2B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 752E8F0D2B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutTests.swift */; };
-		752E8F182B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 752E8F172B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutUITests.swift */; };
-		752E8F1A2B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 752E8F192B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,10 +42,7 @@
 		752E8F022B4E359F002D309A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		752E8F042B4E359F002D309A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		752E8F092B4E35A0002D309A /* Abhi's Code Path PreWorkoutTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Abhi's Code Path PreWorkoutTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		752E8F0D2B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Abhi_s_Code_Path_PreWorkoutTests.swift; sourceTree = "<group>"; };
 		752E8F132B4E35A0002D309A /* Abhi's Code Path PreWorkoutUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Abhi's Code Path PreWorkoutUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		752E8F172B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Abhi_s_Code_Path_PreWorkoutUITests.swift; sourceTree = "<group>"; };
-		752E8F192B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Abhi_s_Code_Path_PreWorkoutUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,8 +74,6 @@
 			isa = PBXGroup;
 			children = (
 				752E8EF52B4E359E002D309A /* Abhi's Code Path PreWorkout */,
-				752E8F0C2B4E35A0002D309A /* Abhi's Code Path PreWorkoutTests */,
-				752E8F162B4E35A0002D309A /* Abhi's Code Path PreWorkoutUITests */,
 				752E8EF42B4E359E002D309A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -108,23 +100,6 @@
 				752E8F042B4E359F002D309A /* Info.plist */,
 			);
 			path = "Abhi's Code Path PreWorkout";
-			sourceTree = "<group>";
-		};
-		752E8F0C2B4E35A0002D309A /* Abhi's Code Path PreWorkoutTests */ = {
-			isa = PBXGroup;
-			children = (
-				752E8F0D2B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutTests.swift */,
-			);
-			path = "Abhi's Code Path PreWorkoutTests";
-			sourceTree = "<group>";
-		};
-		752E8F162B4E35A0002D309A /* Abhi's Code Path PreWorkoutUITests */ = {
-			isa = PBXGroup;
-			children = (
-				752E8F172B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutUITests.swift */,
-				752E8F192B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutUITestsLaunchTests.swift */,
-			);
-			path = "Abhi's Code Path PreWorkoutUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -268,7 +243,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				752E8F0E2B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,8 +250,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				752E8F1A2B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutUITestsLaunchTests.swift in Sources */,
-				752E8F182B4E35A0002D309A /* Abhi_s_Code_Path_PreWorkoutUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

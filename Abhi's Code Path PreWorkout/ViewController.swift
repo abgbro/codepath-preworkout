@@ -8,7 +8,9 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet weak var turtleImage: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
@@ -24,8 +26,29 @@ class ViewController: UIViewController {
         let green = CGFloat.random(in:0...1)
         let blue = CGFloat.random(in: 0...1)
         
-        return UIColor(red:red,green:green,blue:blue,alpha:0.5)
+        return UIColor(red:red,green:green,blue:blue,alpha:0.3)
     }
     
+    @IBAction func changeFontColor(_ sender: UIButton) {
+        let randomColor = changeColor()
+        sender.setTitle("did it work?", for: .normal)
+        let turtle = UIImage(named:"turtle.jpg")
+        if turtle != nil{
+            turtleImage.image = turtle
+        }
+        
+    }
+    @IBAction func goodSquidward(_ sender: UIButton) {
+        let handsomeSquidward = UIImage(named:"goodsquidward.jpg")
+        if handsomeSquidward != nil{
+            turtleImage.image = handsomeSquidward
+        }
+    }
+    @IBAction func badSquidward(_ sender: UIButton) {
+        let badSquidward = UIImage(named:"badsquidward.jpg")
+        if badSquidward != nil{
+            turtleImage.image = badSquidward
+        }
+    }
 }
 
