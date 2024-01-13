@@ -26,17 +26,17 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 My favorite apps:
-Spotify
+**Spotify**
 - Love the niche playlists that it cooks up for you
 - DJ Xavier: the AI DJ that helps anyone explore new music
-DUO Mobile
+**DUO Mobile**
 - It's great that I can approve login attempts from my lock screen, don't have to sign in
 - Also really easy to add new accounts for duo pushes
-Yik Yak
+**Yik Yak**
 - So fast to open up
 - No login
 - Easy to view threads, Yaks, and create ones
-Insomnia Cookies
+**Insomnia Cookies**
 - Appealing Color Schema
 - Rewards points are easy to find and use
 - Cookies look really tasty
