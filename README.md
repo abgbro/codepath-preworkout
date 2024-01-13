@@ -2,7 +2,7 @@
 
 Submitted by: **Abhinav Garlapati**
 
-**Preworkout** is an app to let everyone know about me and display some cool images 
+**CodePath Prework** is an app to let everyone know about me and display some cool images 
 
 Time spent: **4** hours spent in total
 
