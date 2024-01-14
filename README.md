@@ -51,8 +51,10 @@ My favorite apps:
 
 App Ideas:
 
-On The Go Zillow Augmented Reality App: Instantly retrieve comprehensive real estate information by pointing your camera at any house. From market value to square footage, explore properties seamlessly through augmented reality.
-HitchHike: College students can easily carpool for breaks or other occasions with the HitchHike app. Connect with fellow students, set preferences, and enjoy a secure, cost-effective ride home. Real-time tracking, secure payments, and a rating system ensure a reliable and community-driven transportation network.
+**On The Go Zillow Augmented Reality App**: Instantly retrieve comprehensive real estate information by pointing your camera at any house. From market value to square footage, explore properties seamlessly through augmented reality.
+
+
+**HitchHike**: College students can easily carpool for breaks or other occasions with the HitchHike app. Connect with fellow students, set preferences, and enjoy a secure, cost-effective ride home. Real-time tracking, secure payments, and a rating system ensure a reliable and community-driven transportation network.
 
 
 ## Notes
