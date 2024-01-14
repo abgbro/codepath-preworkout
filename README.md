@@ -41,13 +41,13 @@ My favorite apps:
 
 - So fast to open up
 - No login
-- Easy to view threads, Yaks, and create ones
+- Easy to view threads, Yaks, and create new ones
 
 **Insomnia Cookies**
 
 - Appealing Color Schema
 - Rewards points are easy to find and use
-- Cookies look really tasty
+- all the images of the cookies pop out and look really tasty
 
 App Ideas:
 
