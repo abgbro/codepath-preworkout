@@ -12,6 +12,8 @@ The following **required** functionality is completed:
 
 - [X] Users are see a screen with three labels and a button
 - [X] Tapping the button changes the screen color to a random color
+
+The following **improved** functionality is completed:
 - [X] Added a launch screen
 - [X] Tapping a button changes it's text
 - [X] Added 3 buttons that display different images
